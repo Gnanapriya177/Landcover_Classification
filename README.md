@@ -8,11 +8,11 @@ EuroSAT (Sentinel-2 satellite imagery, 27,000 images, 10 classes)
 
 ## Approach
 - Transfer learning using pretrained ResNet18
-- Initial training with frozen backbone: 83.6% validation accuracy
-- Fine-tuned by unfreezing final conv block (layer4): 99.16% validation accuracy
+- Initial training with frozen backbone: 83.63% validation accuracy
+- Fine-tuned by unfreezing final conv block (layer4): 99.134% validation accuracy
 
 ## Results
-- Validation Accuracy: 99.16%
+- Validation Accuracy: 99.34%
 - Evaluated using confusion matrix and classification report (precision/recall/F1)
 
 ## Tech Stack
