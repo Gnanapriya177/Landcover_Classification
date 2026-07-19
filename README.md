@@ -18,5 +18,4 @@ EuroSAT (Sentinel-2 satellite imagery, 27,000 images, 10 classes)
 ## Tech Stack
 Python, PyTorch, torchvision, scikit-learn, matplotlib, seaborn
 
-## How to run
-Open `[notebook_name].ipynb` in Google Colab and run all cells (GPU runtime recommended).
+
